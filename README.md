@@ -19,7 +19,7 @@ Soy un apasionado por la tecnología y el desarrollo de software, actualmente en
 
 ## Habilidades Técnicas
 
-`Python` `Linux` `Git` `Bash` `HTML` `CSS`
+`Python` `Linux` `Git`
 
 ---
 
