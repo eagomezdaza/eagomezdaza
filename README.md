@@ -1,6 +1,6 @@
 # John Gómez
 
-**Aprendiz de Desarrollo de Software | Python Enthusiast**  
+**Python, R & Linux Enthusiast | Aprendiendo Machine Learning**  
 Valparaiso, Chile · [LinkedIn](https://www.linkedin.com/in/eagomezdaza/) · [GitHub](https://github.com/eagomezdaza)
 
 ---
