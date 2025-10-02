@@ -21,8 +21,8 @@ Soy un apasionado por la tecnología en constante aprendizaje. Actualmente estoy
 ## 📊 Mis Estadísticas
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true&theme=radical" alt="Estadísticas de GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tu-usuario&layout=compact&theme=radical" alt="Lenguajes Más Usados" />
+  <img src="https://github-readme-stats.vercel.app/api?username=eagomezdaza&show_icons=true&theme=radical" alt="Estadísticas de GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eagomezdaza&layout=compact&theme=radical" alt="Lenguajes Más Usados" />
 </p>
 
 
