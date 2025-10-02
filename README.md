@@ -1,13 +1,28 @@
-<h1 align="center">Hola 👋,me llamo John Gómez</h1>
-<h3 align="center">Aprendiz</h3>
+<h1 align="center">¡Hola! 👋 Soy John Gómez</h1>
+<h3 align="center">Desarrollador en Formación | Aprendiz de Tecnologías</h3>
 
-- 📫 How to reach me **https://www.linkedin.com/in/eagomezdaza/**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+## 🚀 Sobre Mí
+
+Soy un apasionado por la tecnología en constante aprendizaje. Actualmente estoy explorando el mundo de la programación y administración de sistemas.
+
+## 🔧 Tecnologías y Herramientas
+
+- **Lenguajes:** Python
+- **Sistemas Operativos:** Linux
+- **Control de Versiones:** Git & GitHub
+
+## 📫 Conecta Conmigo
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-John_Gómez-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/eagomezdaza/)
+[![Email](https://img.shields.io/badge/Email-Contáctame-red?style=flat&logo=gmail)](mailto:tu-email@ejemplo.com)
+
+## 📊 Mis Estadísticas
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true&theme=radical" alt="Estadísticas de GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tu-usuario&layout=compact&theme=radical" alt="Lenguajes Más Usados" />
 </p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
 
