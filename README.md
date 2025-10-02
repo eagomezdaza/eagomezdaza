@@ -7,19 +7,19 @@ Valparaiso, Chile · [LinkedIn](https://www.linkedin.com/in/eagomezdaza/) · [Gi
 
 ## Sobre mí
 
-Soy un apasionado por la tecnología y el desarrollo de software, actualmente en formación. Me interesa aprender sobre programación, sistemas operativos Linux y herramientas que me permitan automatizar tareas y desarrollar soluciones eficientes. Mi objetivo es crecer en el área de la tecnología, adquiriendo conocimientos sólidos y aplicándolos en proyectos reales.
+Soy un entusiasta de la tecnología en proceso de formación, con interés en **Python, R y Linux**. Actualmente estoy aprendiendo **Machine Learning** y explorando herramientas que me permitan automatizar tareas y crear soluciones prácticas. Mi objetivo es seguir creciendo en el área tecnológica, adquiriendo bases sólidas en programación y aplicándolas en proyectos reales.
 
 ---
 
 ## Objetivo Profesional
 
-> “Aplicar mis conocimientos en programación y sistemas para contribuir en proyectos tecnológicos, con un enfoque en la calidad, la eficiencia y el aprendizaje continuo. Aspiro a formar parte de un equipo donde pueda desarrollar mis habilidades y crecer profesionalmente.”
+> “Desarrollar mi trayectoria en el área tecnológica aplicando mis conocimientos en **Python, R y Linux**, y ampliando mis aprendizajes en **Machine Learning**. Mi meta es contribuir en proyectos donde pueda aportar con soluciones prácticas y eficientes, mientras continúo creciendo profesional y académicamente.”
 
 ---
 
 ## Habilidades Técnicas
 
-`Python` `Linux` `Git`
+`Python` `R` `Linux` `Git`
 
 ---
 
