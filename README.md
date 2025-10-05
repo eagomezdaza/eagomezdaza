@@ -1,41 +1,92 @@
 # John Gómez
 
-**Python, R & Linux Enthusiast | Aprendiendo Machine Learning**  
-Valparaiso, Chile · [LinkedIn](https://www.linkedin.com/in/eagomezdaza/) · [GitHub](https://github.com/eagomezdaza)
+**Matemático | Python, R & Linux Enthusiast | En formación en Machine Learning**  
+Valparaíso, Chile · [LinkedIn](https://www.linkedin.com/in/eagomezdaza/) · [GitHub](https://github.com/eagomezdaza)
 
 ---
 
-## Sobre mí
+## Acerca de mí
 
-Soy un entusiasta de la tecnología en proceso de formación, con interés en **Python, R y Linux**. Actualmente estoy aprendiendo **Machine Learning** y explorando herramientas que me permitan automatizar tareas y crear soluciones prácticas. Mi objetivo es seguir creciendo en el área tecnológica, adquiriendo bases sólidas en programación y aplicándolas en proyectos reales.
+Soy **Matemático** con formación en **Modelación Estadística** y **Geometría Diferencial**, actualmente orientado al aprendizaje y aplicación de herramientas en **Python, R y Linux**.  Me interesa la integración entre análisis matemático, estadística computacional y desarrollo de proyectos reproducibles con enfoque en Machine Learning.
 
----
-
-## Objetivo Profesional
-
-> “Desarrollar mi trayectoria en el área tecnológica aplicando mis conocimientos en **Python, R y Linux**, y ampliando mis aprendizajes en **Machine Learning**. Mi meta es contribuir en proyectos donde pueda aportar con soluciones prácticas y eficientes, mientras continúo creciendo profesional y académicamente.”
+Busco consolidar una trayectoria en el área tecnológica y científica, combinando rigor analítico con la implementación práctica de soluciones basadas en datos.
 
 ---
 
-## Habilidades Técnicas
+## Educación
 
-`Python` `R` `Linux` `Git`
+| Grado | Institución | Año | Enfoque |
+|--------|--------------|------|----------|
+| **Doctorado en Matemática** | Consorcio UTFSM–PUCV–UV, Chile | 2023 | Modelación Estadística |
+| **Magíster en Ciencias Matemáticas** | Univ. Federal de Goiás, Brasil | 2014 | Geometría Diferencial |
+| **Licenciatura en Matemáticas** | Universidad del Cauca, Colombia | 2009 | Formación científica y pedagógica |
 
 ---
 
-## Educación y Certificaciones
+## Experiencia Académica
 
-- **Matemático** (Unicauca, 2010)
+- **Profesor tiempo completo** – Universidad Santiago de Cali (2016–2018)  
+- **Profesor hora cátedra** – Pontificia Universidad Javeriana, Univ. Autónoma de Occidente (2015–2018)  
+- **Profesor medio tiempo** – Fundación Universitaria Católica (2014–2016)  
+- **Profesor asistente de cátedra** – Univ. Federal de Goiás, Brasil (2013)  
+- **Profesor tiempo completo** – I.E. El Carmen, Cauca (2010–2012)
+
+Durante este periodo he participado en docencia universitaria, orientación de estudiantes y proyectos de investigación en modelamiento matemático y análisis estadístico.
+
+---
+
+## Publicaciones y Presentaciones
+
+- **Acosta, J., Vallejos, R., & Gómez, J. (2023).** *Correlation Integral for Stationary Gaussian Time Series.* **Sankhya A**, 1–24.  
+- Ponencias internacionales en Chile, Perú y Colombia sobre correlación integral y procesos espacio-temporales.
+
+---
+
+## Stack Tecnológico
+
+| Área | Tecnologías |
+|------|--------------|
+| **Lenguajes** | Python, R, LaTeX |
+| **Análisis de Datos** | pandas, numpy, matplotlib, RStudio |
+| **Machine Learning** | scikit-learn (en formación) |
+| **Sistemas Operativos** | Linux (Debian, Ubuntu) |
+| **Control de Versiones** | Git, GitHub |
+| **Entornos de Desarrollo** | Jupyter, Google Colab |
+
+---
+
+## Proyectos Destacados
+
+- **[Proyecto Wine Classification](https://github.com/eagomezdaza/proyecto-wine)**  
+  Clasificación de vinos mediante técnicas de aprendizaje supervisado en Python. Incluye análisis exploratorio, preprocesamiento y evaluación de modelos con scikit-learn.
+
+- **[Evaluación Modular ML](https://github.com/eagomezdaza/Evaluacion_Modular)**  
+  API Flask desplegada en contenedor Docker y Azure Container Apps para clasificación de cáncer de mama (Machine Learning aplicado).
+
+- **[Proyecto Iris – PCA & KNN](https://github.com/eagomezdaza/proyecto-iris)**  
+  Reducción de dimensionalidad con PCA y clasificación con KNN, implementado en Google Colab con visualizaciones interactivas.
+
+---
+
+## Intereses actuales
+
+- Integración de **estadística y aprendizaje automático** en entornos reproducibles.  
+- Aplicaciones científicas de **Python y R** en análisis de datos espaciales y temporales.  
+- Administración y automatización en **Linux**.  
+- Exploración de **CI/CD**, **Docker** y despliegue de modelos en la nube.
+
 ---
 
 ## Contacto
 
-Puedes contactarme a través de mi [LinkedIn](https://www.linkedin.com/in/eagomezdaza/) o por correo electrónico: [eagomezdaza@gmail.com](eagomezdaza@gmail.com)
+- **Correo:** [eagomezdaza@gmail.com](mailto:eagomezdaza@gmail.com)  
+- **LinkedIn:** [linkedin.com/in/eagomezdaza](https://www.linkedin.com/in/eagomezdaza/)  
+- **GitHub:** [github.com/eagomezdaza](https://github.com/eagomezdaza)
 
 ---
 
-## ¿Qué puedes esperar de mí?
+## Estadísticas de GitHub
 
-- Compromiso y dedicación en cada proyecto
-- Ganas de aprender y adaptarme a nuevos desafíos
-- Trabajo en equipo y comunicación efectiva
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eagomezdaza&layout=compact&theme=algolia)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=eagomezdaza&show_icons=true&theme=algolia)
+
