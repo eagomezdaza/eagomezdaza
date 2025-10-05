@@ -17,19 +17,14 @@ Busco consolidar una trayectoria en el área tecnológica y científica, combina
 
 | Grado | Institución | Año | Enfoque |
 |--------|--------------|------|----------|
-| **Doctorado en Matemática** | Consorcio UTFSM–PUCV–UV, Chile | 2023 | Modelación Estadística |
-| **Magíster en Ciencias Matemáticas** | Univ. Federal de Goiás, Brasil | 2014 | Geometría Diferencial |
 | **Licenciatura en Matemáticas** | Universidad del Cauca, Colombia | 2009 | Formación científica y pedagógica |
 
 ---
 
 ## Experiencia Académica
 
-- **Profesor tiempo completo** – Universidad Santiago de Cali (2016–2018)  
-- **Profesor hora cátedra** – Pontificia Universidad Javeriana, Univ. Autónoma de Occidente (2015–2018)  
-- **Profesor medio tiempo** – Fundación Universitaria Católica (2014–2016)  
-- **Profesor asistente de cátedra** – Univ. Federal de Goiás, Brasil (2013)  
-- **Profesor tiempo completo** – I.E. El Carmen, Cauca (2010–2012)
+- **Profesor tiempo parcial** – Universidad Técnica Federico Santa María  
+- **Profesor tiempo parcial** – Pontifía Católica de Valparaiso.
 
 Durante este periodo he participado en docencia universitaria, orientación de estudiantes y proyectos de investigación en modelamiento matemático y análisis estadístico.
 
