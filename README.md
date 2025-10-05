@@ -54,7 +54,7 @@ Proyecto implementado en entorno **Google Colab** con enfoque en interpretabilid
 ### [MLOps en la Nube: Despliegue automatizado de un modelo predictivo](https://github.com/eagomezdaza/Mod10-Evaluacion_Modular)
 Desarrollo de un sistema **MLOps** que integra un modelo de **Machine Learning** expuesto como **API Flask**, contenedizado con **Docker** y desplegado en **Azure**, siguiendo prácticas de automatización, versionado y actualización continua.
 
-### [Despliegue de modelo Iris como API Flask contenedorizada](https://github.com/eagomezdaza/proyecto-iris)
+### [Despliegue de modelo Iris como API Flask contenedorizada]([https://github.com/eagomezdaza/proyecto-iris](https://github.com/eagomezdaza/iris-flask-docker-api)
 Desarrollo de una **API REST** con **Flask** que expone un modelo de clasificación del dataset *Iris*, incorporando validaciones, manejo de errores y pruebas automatizadas. El sistema se ejecuta en un entorno **Docker** para portabilidad y despliegue reproducible.
 
 
