@@ -46,16 +46,17 @@ He participado en docencia, orientación de estudiantes y proyectos de investiga
 
 ## Proyectos Destacados
 
-### [Proyecto Wine Classification](https://github.com/eagomezdaza/proyecto-wine)
-Clasificación de vinos mediante técnicas de aprendizaje supervisado en **Python**.  
-Incluye análisis exploratorio, preprocesamiento de datos y evaluación de modelos con **scikit-learn**.
+### [Clasificación de vinos con aprendizaje supervisado en Python](https://github.com/eagomezdaza/proyecto-wine)
+Desarrollo de un flujo de **Machine Learning** orientado a la clasificación de tipos de vino, que incluye análisis exploratorio, preprocesamiento de datos y evaluación de modelos con **scikit-learn**.  
+Proyecto implementado en entorno **Google Colab** con enfoque en interpretabilidad de resultados.
 
-### [Evaluación Modular ML](https://github.com/eagomezdaza/Evaluacion_Modular)
-Desarrollo de una **API Flask** desplegada en contenedor **Docker** y **Azure Container Apps** para clasificación de cáncer de mama mediante modelos de **Machine Learning**.
 
-### [Proyecto Iris – PCA & KNN](https://github.com/eagomezdaza/proyecto-iris)
-Aplicación de **PCA** y **KNN** para reducción de dimensionalidad y clasificación.  
-Incluye análisis visual y evaluación de desempeño en entorno **Google Colab**.
+### [MLOps en la Nube: Despliegue automatizado de un modelo predictivo](https://github.com/eagomezdaza/Mod10-Evaluacion_Modular)
+Desarrollo de un sistema **MLOps** que integra un modelo de **Machine Learning** expuesto como **API Flask**, contenedizado con **Docker** y desplegado en **Azure**, siguiendo prácticas de automatización, versionado y actualización continua.
+
+### [Despliegue de modelo Iris como API Flask contenedorizada](https://github.com/eagomezdaza/proyecto-iris)
+Desarrollo de una **API REST** con **Flask** que expone un modelo de clasificación del dataset *Iris*, incorporando validaciones, manejo de errores y pruebas automatizadas. El sistema se ejecuta en un entorno **Docker** para portabilidad y despliegue reproducible.
+
 
 ---
 
