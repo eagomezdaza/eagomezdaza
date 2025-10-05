@@ -13,14 +13,6 @@ Busco consolidar una trayectoria en el área tecnológica y científica, combina
 
 ---
 
-## Educación
-
-| Grado | Institución | Año | Enfoque |
-|--------|--------------|------|----------|
-| **Licenciatura en Matemáticas** | Universidad del Cauca, Colombia | 2009 | Formación científica y pedagógica |
-
----
-
 ## Experiencia Académica
 
 - **Profesor tiempo parcial** – Universidad Técnica Federico Santa María  
